@@ -4,7 +4,6 @@ import sys
 
 setup(
   name = 'memcached-utils',
-  packages = ['memcached-utils'], 
   version = '0.1.0',
   description = 'Python utility to get / set (read/write) values from memcached',
   author = 'ipapi',
